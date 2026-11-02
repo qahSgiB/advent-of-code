@@ -4,7 +4,7 @@
 This repo contains my solutions to them.
 Some of the older solutions are missing, because I lost them :((.
 
-My yearly stats:
+My stats:
  - **2025**: 24/24
  - **2024**: 3/50
  - **2023**: 0/50
