@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+.mypy_cache/
+
+# Rust
+debug
+target
+
+# Dart
+.packages
+build/
+
+# Haskell
+# TODO
+
+# assembler solution for 2020/01
+2020/1/*o
+2020/1/solution
+2020/1/test
+2020/1/test1
+
+# old input files
+*.AOCInput
+input.txt
+
+# input files
+inp.txt
